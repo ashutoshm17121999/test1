@@ -8,7 +8,6 @@
   }
   
   body {
-    font-family: "Helvetica Neue", sans-serif;
     margin-bottom: 50%;
   }
   
@@ -48,7 +47,7 @@
     display: flex;
     font-size: 45px;
     justify-content: center;
-    width: 110px;
+    width: 90px;
   }
   
   .button.function {
@@ -57,7 +56,7 @@
   }
   
   .button.operator {
-    background: #f1a33c;
+    background: #ffcf91;
   }
   
   .button.number-0 {
